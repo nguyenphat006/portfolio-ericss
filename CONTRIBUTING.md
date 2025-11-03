@@ -1,7 +1,7 @@
 ## Contributing
 
-[fork]: https://github.com/Technical-Shubham-tech/3d-portfolio/fork
-[pr]: https://github.com/Technical-Shubham-tech/3d-portfolio/compare
+[fork]: https://github.com/Technical-Ericss-tech/3d-portfolio/fork
+[pr]: https://github.com/Technical-Ericss-tech/3d-portfolio/compare
 [style]: https://standardjs.com/
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
