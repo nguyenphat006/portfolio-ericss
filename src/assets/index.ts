@@ -45,8 +45,12 @@ import github from "./socials/github.svg";
 import linkedin from "./socials/linkedin.svg";
 import twitter from "./socials/twitter.svg";
 import youtube from "./socials/youtube.svg";
+import avatar_ericss from "./logo/logo-avat.png"
+import logo_ericss from "./logo/logo-ericss.png"
 
 export {
+  avatar_ericss,
+  logo_ericss,
   backend,
   bulb,
   close,
