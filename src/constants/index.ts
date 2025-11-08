@@ -56,9 +56,9 @@ export const NAV_LINKS = [
     link: null,
   },
   {
-    id: "source-code",
-    title: "Source Code",
-    link: "http://www.github.com/nguyenphat006/3d-portfolio/",
+    id: "blog",
+    title: "Blog",
+    link: "/blog",
   },
 ] as const;
 

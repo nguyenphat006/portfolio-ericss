@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 
-import { ComputersCanvas } from "./canvas";
-import { styles } from "../styles";
-import { cn } from "../utils/lib";
+import { ComputersCanvas } from "../canvas";
+import { styles } from "../../styles";
+import { cn } from "../../utils/lib";
 
 // Hero
 export const Hero = () => {

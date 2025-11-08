@@ -1,12 +1,12 @@
 import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
 
-import { github, preview } from "../assets";
-import { PROJECTS } from "../constants";
-import { SectionWrapper } from "../hoc";
-import { styles } from "../styles";
-import { cn } from "../utils/lib";
-import { fadeIn, textVariant } from "../utils/motion";
+import { github, preview } from "../../assets";
+import { PROJECTS } from "../../constants";
+import { SectionWrapper } from "../../hoc";
+import { styles } from "../../styles";
+import { cn } from "../../utils/lib";
+import { fadeIn, textVariant } from "../../utils/motion";
 
 type ProjectCardProps = (typeof PROJECTS)[number] & {
   index: number;

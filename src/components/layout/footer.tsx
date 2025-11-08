@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
 
-import { SOCIALS } from "../constants";
-import { styles } from "../styles";
-import { cn } from "../utils/lib";
+import { SOCIALS } from "../../constants";
+import { styles } from "../../styles";
+import { cn } from "../../utils/lib";
 
 // Footer
 const Footer = () => {

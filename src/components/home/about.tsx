@@ -1,10 +1,10 @@
 import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
 
-import { SERVICES } from "../constants";
-import { SectionWrapper } from "../hoc";
-import { styles } from "../styles";
-import { fadeIn, textVariant } from "../utils/motion";
+import { SERVICES } from "../../constants";
+import { SectionWrapper } from "../../hoc";
+import { styles } from "../../styles";
+import { fadeIn, textVariant } from "../../utils/motion";
 
 type ServiceCardProps = {
   index: number;

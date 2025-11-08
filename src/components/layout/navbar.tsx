@@ -1,10 +1,10 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
-import { logo, menu, close, avatar_ericss, logo_ericss } from "../assets";
-import { NAV_LINKS } from "../constants";
-import { styles } from "../styles";
-import { cn } from "../utils/lib";
+import { logo, menu, close, avatar_ericss, logo_ericss } from "../../assets";
+import { NAV_LINKS } from "../../constants";
+import { styles } from "../../styles";
+import { cn } from "../../utils/lib";
 
 type NavbarProps = {
   hide: boolean;

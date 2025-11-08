@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
 
-import { TESTIMONIALS } from "../constants";
-import { SectionWrapper } from "../hoc";
-import { styles } from "../styles";
-import { cn } from "../utils/lib";
-import { fadeIn, textVariant } from "../utils/motion";
+import { TESTIMONIALS } from "../../constants";
+import { SectionWrapper } from "../../hoc";
+import { styles } from "../../styles";
+import { cn } from "../../utils/lib";
+import { fadeIn, textVariant } from "../../utils/motion";
 
 type FeedbackCardProps = {
   index: number;
