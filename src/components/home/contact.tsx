@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { useState, useRef, type FormEvent, type ChangeEvent } from "react";
 import { toast } from "sonner";
 
-import { EarthCanvas } from "../canvas";
+import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../../hoc";
 import { styles } from "../../styles";
 import { slideIn } from "../../utils/motion";

@@ -7,7 +7,7 @@ import {
   ComputersCanvas,
   EarthCanvas,
   StarsCanvas,
-} from "./canvas";
+} from "./home/canvas";
 import { Contact } from "./home/contact";
 import { Experience } from "./home/experience";
 import { Feedbacks } from "./home/feedbacks";

@@ -1,4 +1,4 @@
-import { BallCanvas } from "../canvas";
+import { BallCanvas } from "./canvas";
 import { TECHNOLOGIES } from "../../constants";
 import { SectionWrapper } from "../../hoc";
 

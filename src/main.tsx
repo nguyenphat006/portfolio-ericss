@@ -4,7 +4,7 @@ import { Toaster } from "sonner";
 
 import App from "./app";
 
-import "./index.css";
+import "./index-clean.css";
 
 const rootEl = document.getElementById("root");
 
